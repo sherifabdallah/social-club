@@ -1,9 +1,8 @@
-# Django Twitter Clone by Redian Marku
-
-Fully functional Django App that looks ecxatly like real Twitter.
+# Django Facebook Clone
 
 
-## Setup
+
+# Setup
 
 1. Git Clone the project with: ```git clone https://github.com/sherif-abdallah/sturdy-memory/```.
 
@@ -18,4 +17,3 @@ Fully functional Django App that looks ecxatly like real Twitter.
 6. Make migrations with: ```python manage.py makemigrations``` and then ```python manage.py migrate```.
 
 7. Run app localy with: ```python manage.py runserver```.
-
