@@ -2,7 +2,7 @@
 
 
 
-# Setup
+## Setup
 
 1. Git Clone the project with: ```git clone https://github.com/sherif-abdallah/sturdy-memory/```.
 
