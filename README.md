@@ -1,19 +1,38 @@
-# Django Facebook Clone
+# Social-Club
 
-
+Fully functional Django App that looks ecxatly like real Twitter. [Social-Club](http://soocialclub.pythonanywhere.com/)
 
 ## Setup
 
-1. Git Clone the project with: ```git clone https://github.com/sherif-abdallah/sturdy-memory/```.
-
-2. Move to the base directory: ```cd Django-Twitter-Clone```
-
-3. Create a new python enveronment with: ```python -m venv env```.
-
-4. Activate enveronment with: ```env\Scripts\activate``` on windows, or ```source env/bin/activate``` on Mac and Linux.
-
-5. Install required dependences with: ```pip install -r requirements.txt```.
-
-6. Make migrations with: ```python manage.py makemigrations``` and then ```python manage.py migrate```.
-
-7. Run app localy with: ```python manage.py runserver```.
+Git Clone the project 
+```bash
+git clone https://github.com/sherif-abdallah/Social-Club/
+```
+Move to the base directory
+```bash
+cd Django-Twitter-Clone
+```
+Create a new python enveronment
+```bash
+python3 -m venv social-club
+```
+Activate enveronment
+```bash
+source social-club/bin/activate
+```
+Install required dependences
+```bash
+pip3 install -r requirements.txt
+```
+Make migrations
+```bash
+python3 manage.py makemigrations
+```
+Migrate
+```bash
+python3 manage.py migrate
+```
+Run app localy
+```bash
+python3 manage.py runserver
+```
