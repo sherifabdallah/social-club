@@ -10,7 +10,7 @@ git clone https://github.com/sherif-abdallah/Social-Club/
 ```
 Move to the base directory
 ```bash
-cd Django-Twitter-Clone
+cd Social-Club
 ```
 Create a new python enveronment
 ```bash
