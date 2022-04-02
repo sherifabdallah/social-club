@@ -1,3 +1,4 @@
 *.html linguist-language=Django
 *.css linguist-detectable=false
 users/*.py linguist-detectable=false
+blog/*.py linguist-detectable=false
