@@ -69,5 +69,5 @@ Go the `.env` file and Change  `DEBUG = True` `PRODUCTION = False`
 * And navigate to `http://127.0.0.1:8000`.
 
 ## Author
-[Sherif Abdullah](https://github.com/sherif-abdallah)
+[Sherif Abdullah](https://github.com/sherifabdallah)
 
